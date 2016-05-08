@@ -1,5 +1,5 @@
-# js-air-app-beta
-> JS Air app Beta feedbacks
+# JS Air beta
+> JS Air appplication Beta feedbacks
 
 ### Just submit an issue and please add details (*as much as possible*).
 
