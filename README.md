@@ -1,7 +1,7 @@
 # js-air-app-beta
 > JS Air app Beta feedbacks
 
-### Just submit an issue adding details (*as much as possible*).
+### Just submit an issue and please add details (*as much as possible*).
 
 **interesting details:**
 - nature:
